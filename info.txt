@@ -1,4 +1,5 @@
 #Open shift project
 #Concepto 1
 #Menu
-Merges puts unwanted characters in my code
+#Merges puts unwanted characters in my code
+the constant of life is change
