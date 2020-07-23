@@ -1,5 +1,10 @@
 #Open shift project
 #Concepto 1
 #Menu
+<<<<<<< HEAD
 #Merges puts unwanted characters in my code
 the constant of life is change
+=======
+Merges puts unwanted characters in my code
+#Readers are leaders
+>>>>>>> acc78b67da49c7850958df910ae56f49c6d47cb3
